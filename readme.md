@@ -15,7 +15,6 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Note](#note)
 
 
 <!-- ABOUT THE PROJECT -->
